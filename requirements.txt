@@ -1,0 +1,6 @@
+tensorflow==2.8.4
+tflite-model-maker
+numpy==1.23.4
+ipykernel
+cython
+pycocotools
